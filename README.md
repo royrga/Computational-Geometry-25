@@ -8,6 +8,11 @@
 - [Links](#links)
 - [References](#references)
 
+### Algorithm development
+
+- [From reference [3]]([3]Algorithm/math.md)
+- [From reference [5]]([5]Algorithm/math.md)
+
 ## Problem Description
 
 **Central Triangulation under Parallel Flip Operations**
